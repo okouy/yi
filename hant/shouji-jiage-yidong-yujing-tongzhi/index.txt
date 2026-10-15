@@ -1,5 +1,5 @@
 1:HL["/yi/_next/static/css/ba72a609d93ef5d5.css","style",{"crossOrigin":""}]
-0:["LpfX11LBVfmxLWv5a1cKz",[[["",{"children":["hant",{"children":[["slug","shouji-jiage-yidong-yujing-tongzhi","d"],{"children":["__PAGE__?{\"slug\":\"shouji-jiage-yidong-yujing-tongzhi\"}",{}]}]}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"/yi/_next/static/css/ba72a609d93ef5d5.css","precedence":"next","crossOrigin":""}]],"$L3"]]]]
+0:["C8uEXrhGEOTRoedBu_-2W",[[["",{"children":["hant",{"children":[["slug","shouji-jiage-yidong-yujing-tongzhi","d"],{"children":["__PAGE__?{\"slug\":\"shouji-jiage-yidong-yujing-tongzhi\"}",{}]}]}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"/yi/_next/static/css/ba72a609d93ef5d5.css","precedence":"next","crossOrigin":""}]],"$L3"]]]]
 4:I[7581,["185","static/chunks/app/layout-b7eb881d2ab07f6b.js"],"ConfigProvider"]
 5:I[8281,["185","static/chunks/app/layout-b7eb881d2ab07f6b.js"],"GatewayProvider"]
 6:I[6954,[],""]
